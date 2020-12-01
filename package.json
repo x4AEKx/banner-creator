@@ -53,6 +53,6 @@
     "eslint-plugin-prettier": "^3.1.4",
     "prettier": "^2.2.1"
   },
-  "author": "",
+  "author": "Dmitry '4aek' Vlasov",
   "license": "ISC"
 }
