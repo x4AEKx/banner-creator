@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/banner-creator/static/css/main.92d78baf.chunk.css",
-    "main.js": "/banner-creator/static/js/main.b851d963.chunk.js",
-    "main.js.map": "/banner-creator/static/js/main.b851d963.chunk.js.map",
+    "main.js": "/banner-creator/static/js/main.ba926269.chunk.js",
+    "main.js.map": "/banner-creator/static/js/main.ba926269.chunk.js.map",
     "runtime-main.js": "/banner-creator/static/js/runtime-main.f5c96385.js",
     "runtime-main.js.map": "/banner-creator/static/js/runtime-main.f5c96385.js.map",
     "static/js/2.0788d289.chunk.js": "/banner-creator/static/js/2.0788d289.chunk.js",
@@ -15,6 +15,6 @@
     "static/js/runtime-main.f5c96385.js",
     "static/js/2.0788d289.chunk.js",
     "static/css/main.92d78baf.chunk.css",
-    "static/js/main.b851d963.chunk.js"
+    "static/js/main.ba926269.chunk.js"
   ]
 }
